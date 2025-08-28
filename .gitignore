@@ -1,0 +1,8 @@
+venv/
+venv311/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+.DS_Store
+*.pkl            # keep if you DON'T want to upload the model files
+training*.csv    # prevents the giant 1.6M-tweets CSV from being pushed
