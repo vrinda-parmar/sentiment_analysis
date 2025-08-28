@@ -24,3 +24,15 @@ Backend: Python
 NLP: TextBlob / NLTK
 
 Version Control: Git & GitHub
+![Uploading Screenshot (186).png…]()
+
+
+
+
+📂 Project Structure
+📦 sentiment-analysis
+ ┣ 📜 app.py
+ ┣ 📜 requirements.txt
+ ┣ 📜 README.md
+ ┣ 📂 venv/ (ignored in git)
+ ┗ 📂 __pycache__/ (ignored in git)
